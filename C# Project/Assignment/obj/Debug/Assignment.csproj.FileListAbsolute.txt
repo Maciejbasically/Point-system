@@ -1,0 +1,8 @@
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\macie\OneDrive - Woking College\Documents\IT BTEC\Year 13\Unit 4\Assignment\Assignment\obj\Debug\Assignment.pdb
